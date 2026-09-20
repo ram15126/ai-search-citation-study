@@ -1,0 +1,6 @@
+Run-to-run Jaccard: mean 0.93, min 0.19, identical sets 25/30
+AI-cited URLs (union of runs): 319; also in Google top-10 for same query: 82 (26%)
+Google top-10 URLs cited by AI: 82/295 (28%)
+cited share by Google position: {1: '19/30', 2: '12/29', 3: '11/29', 4: '9/29', 5: '9/29', 6: '6/30', 7: '5/29', 8: '6/30', 9: '2/30', 10: '3/30'}
+AI-cited URLs whose DOMAIN is in Google top-10: 101/319 (32%)
+source types: [('company blog/resource', 261), ('education/reference site', 21), ('media/publisher', 17), ('edu/gov', 7), ('official docs', 5), ('ugc/social', 4), ('wikipedia', 4)]

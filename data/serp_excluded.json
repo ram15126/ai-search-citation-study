@@ -1,0 +1,821 @@
+[
+ {
+  "query": "what is seo",
+  "position": 1,
+  "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+  "domain": "developers.google.com",
+  "reason": "docs page (Google developer documentation)"
+ },
+ {
+  "query": "what is seo",
+  "position": 2,
+  "url": "https://www.mtu.edu/umc/services/websites/seo/what-is/",
+  "domain": "mtu.edu",
+  "reason": "university (.edu)"
+ },
+ {
+  "query": "what is seo",
+  "position": 3,
+  "url": "https://www.reddit.com/r/webdev/comments/1b3wowf/can_you_eli5_what_is_seo_is_what_it_does_and_how/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "what is seo",
+  "position": 4,
+  "url": "https://searchengineland.com/guide/what-is-seo",
+  "domain": "searchengineland.com",
+  "reason": "news/media publisher"
+ },
+ {
+  "query": "what is seo",
+  "position": 7,
+  "url": "https://en.wikipedia.org/wiki/Search_engine_optimization",
+  "domain": "en.wikipedia.org",
+  "reason": "wikipedia"
+ },
+ {
+  "query": "what is seo",
+  "position": 8,
+  "url": "https://www.youtube.com/watch?v=vuuji711hDk",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "what is seo",
+  "position": 10,
+  "url": "https://www.ama.org/marketing-news/what-is-seo-marketing/",
+  "domain": "ama.org",
+  "reason": "professional association / trade publication"
+ },
+ {
+  "query": "content marketing strategy",
+  "position": 1,
+  "url": "https://contentmarketinginstitute.com/developing-a-content-marketing-strategy",
+  "domain": "contentmarketinginstitute.com",
+  "reason": "media publisher (CMI, content is the product)"
+ },
+ {
+  "query": "content marketing strategy",
+  "position": 3,
+  "url": "https://www.ama.org/marketing-news/what-is-content-marketing/",
+  "domain": "ama.org",
+  "reason": "professional association / trade publication"
+ },
+ {
+  "query": "content marketing strategy",
+  "position": 4,
+  "url": "https://online.hbs.edu/blog/post/content-strategy",
+  "domain": "online.hbs.edu",
+  "reason": "university (.edu)"
+ },
+ {
+  "query": "content marketing strategy",
+  "position": 6,
+  "url": "https://www.youtube.com/watch?v=c-ZfrX4Slj8",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "content marketing strategy",
+  "position": 7,
+  "url": "https://www.geeksforgeeks.org/marketing/content-marketing-types-importance-strategies/",
+  "domain": "geeksforgeeks.org",
+  "reason": "tutorial/reference publisher (content is the product)"
+ },
+ {
+  "query": "email marketing best practices",
+  "position": 5,
+  "url": "https://www.reddit.com/r/DigitalMarketing/comments/13h82rz/email_marketing_best_practices/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "email marketing best practices",
+  "position": 7,
+  "url": "https://www.business.com/articles/annoying-email-campaign/",
+  "domain": "business.com",
+  "reason": "news/media publisher"
+ },
+ {
+  "query": "email marketing best practices",
+  "position": 9,
+  "url": "https://www.youtube.com/watch?v=By7qL9Wk44M",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "how to write a cold email",
+  "position": 1,
+  "url": "https://carly.substack.com/p/how-to-write-a-cold-email",
+  "domain": "carly.substack.com",
+  "reason": "substack"
+ },
+ {
+  "query": "how to write a cold email",
+  "position": 2,
+  "url": "https://www.forbes.com/sites/francesbridges/2013/08/01/how-to-write-a-cold-e-mail/",
+  "domain": "forbes.com",
+  "reason": "news/media publisher"
+ },
+ {
+  "query": "how to write a cold email",
+  "position": 3,
+  "url": "https://www.nicksingh.com/posts/cold-email-tips-to-land-your-dream-job-with-examples",
+  "domain": "nicksingh.com",
+  "reason": "personal blog, not a company"
+ },
+ {
+  "query": "how to write a cold email",
+  "position": 4,
+  "url": "https://www.reddit.com/r/sales/comments/7jy7lc/cold_email_a_simple_format_that_received_a_lot_of/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "how to write a cold email",
+  "position": 5,
+  "url": "https://www.eugenevinitsky.com/posts/coldemails/",
+  "domain": "eugenevinitsky.com",
+  "reason": "personal blog, not a company"
+ },
+ {
+  "query": "how to write a cold email",
+  "position": 7,
+  "url": "https://www.indeed.com/career-advice/finding-a-job/cold-email-for-job",
+  "domain": "indeed.com",
+  "reason": "job board"
+ },
+ {
+  "query": "how to write a cold email",
+  "position": 8,
+  "url": "https://medium.com/@Jus10McGill/the-complete-guide-to-cold-email-outreach-best-practices-2f93a269008",
+  "domain": "medium.com",
+  "reason": "medium"
+ },
+ {
+  "query": "how to write a cold email",
+  "position": 9,
+  "url": "https://www.youtube.com/watch?v=44O8B98o0fA",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "what is a crm",
+  "position": 2,
+  "url": "https://www.reddit.com/r/CRM/comments/1f0yp7n/can_anybody_explain_what_is_crm/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "what is a crm",
+  "position": 4,
+  "url": "https://www.salesforce.com/crm/video/",
+  "domain": "salesforce.com",
+  "reason": "video landing page, not an article"
+ },
+ {
+  "query": "what is a crm",
+  "position": 5,
+  "url": "https://en.wikipedia.org/wiki/Customer_relationship_management",
+  "domain": "en.wikipedia.org",
+  "reason": "wikipedia"
+ },
+ {
+  "query": "what is a crm",
+  "position": 7,
+  "url": "https://www.coursera.org/articles/what-is-a-crm",
+  "domain": "coursera.org",
+  "reason": "course marketplace (coursera)"
+ },
+ {
+  "query": "what is a crm",
+  "position": 8,
+  "url": "https://www.youtube.com/watch?v=NwPgXbG-nug",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "what is a crm",
+  "position": 9,
+  "url": "https://www.hubspot.com/products/crm/what-is",
+  "domain": "hubspot.com",
+  "reason": "product page path (/products/)"
+ },
+ {
+  "query": "sales pipeline stages",
+  "position": 7,
+  "url": "https://www.coursera.org/articles/sales-pipeline",
+  "domain": "coursera.org",
+  "reason": "course marketplace (coursera)"
+ },
+ {
+  "query": "sales pipeline stages",
+  "position": 8,
+  "url": "https://www.youtube.com/watch?v=fq6EUcpFAPQ",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "lead generation strategies",
+  "position": 10,
+  "url": "https://www.youtube.com/watch?v=owWXfaZtQn8",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "what is product led growth",
+  "position": 3,
+  "url": "https://online.hbs.edu/blog/post/product-led-growth",
+  "domain": "online.hbs.edu",
+  "reason": "university (.edu)"
+ },
+ {
+  "query": "how to start an online store",
+  "position": 1,
+  "url": "https://www.reddit.com/r/ecommerce/comments/zgiht0/looking_to_start_a_online_store/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "how to start an online store",
+  "position": 2,
+  "url": "https://www.forbes.com/advisor/business/how-to-start-an-online-store/",
+  "domain": "forbes.com",
+  "reason": "news/media publisher"
+ },
+ {
+  "query": "how to start an online store",
+  "position": 3,
+  "url": "https://www.youtube.com/watch?v=eSTYQlU-vSg",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "how to start an online store",
+  "position": 4,
+  "url": "https://www.youtube.com/watch?v=9Q-ZrUU9n9M&vl=en",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "how to start an online store",
+  "position": 8,
+  "url": "https://www.youtube.com/watch?v=bOXEtdZliH8",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "how to start an online store",
+  "position": 9,
+  "url": "https://www.coursera.org/articles/ecommerce-business",
+  "domain": "coursera.org",
+  "reason": "course marketplace (coursera)"
+ },
+ {
+  "query": "dropshipping guide",
+  "position": 1,
+  "url": "https://www.reddit.com/r/dropship/comments/10vktie/step_by_step_guide_to_get_started/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "dropshipping guide",
+  "position": 2,
+  "url": "https://www.youtube.com/watch?v=_KmXbRiJVyg",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "dropshipping guide",
+  "position": 6,
+  "url": "https://www.zendrop.com/wp-content/uploads/2024/03/The-Ultimate-Beginners-Guide-to-Dropshipping-in-2024.pdf",
+  "domain": "zendrop.com",
+  "reason": "PDF download, not a blog/resource article page"
+ },
+ {
+  "query": "dropshipping guide",
+  "position": 7,
+  "url": "https://www.youtube.com/watch?v=YImqGsOPqU8&vl=en",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "dropshipping guide",
+  "position": 8,
+  "url": "https://www.investopedia.com/how-to-start-dropshipping-business-11719913",
+  "domain": "investopedia.com",
+  "reason": "news/media publisher"
+ },
+ {
+  "query": "dropshipping guide",
+  "position": 9,
+  "url": "https://www.youtube.com/watch?v=vo6aDcnPzCU",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "ecommerce conversion rate optimization",
+  "position": 6,
+  "url": "https://www.youtube.com/watch?v=eWWOJL1y8Qw&vl=en",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "what is an api",
+  "position": 2,
+  "url": "https://www.reddit.com/r/cybersecurity/comments/1elnz4j/what_is_an_api_really_need_deeper_explanation/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "what is an api",
+  "position": 4,
+  "url": "https://www.youtube.com/watch?v=s7wmiS2mSXY",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "what is an api",
+  "position": 6,
+  "url": "https://www.coursera.org/articles/what-is-an-api",
+  "domain": "coursera.org",
+  "reason": "course marketplace (coursera)"
+ },
+ {
+  "query": "what is an api",
+  "position": 7,
+  "url": "https://en.wikipedia.org/wiki/API",
+  "domain": "en.wikipedia.org",
+  "reason": "wikipedia"
+ },
+ {
+  "query": "what is an api",
+  "position": 10,
+  "url": "https://www.geeksforgeeks.org/software-testing/what-is-an-api/",
+  "domain": "geeksforgeeks.org",
+  "reason": "tutorial/reference publisher (content is the product)"
+ },
+ {
+  "query": "what is kubernetes",
+  "position": 1,
+  "url": "https://kubernetes.io/docs/concepts/overview/",
+  "domain": "kubernetes.io",
+  "reason": "docs page (project documentation)"
+ },
+ {
+  "query": "what is kubernetes",
+  "position": 2,
+  "url": "https://www.reddit.com/r/devops/comments/rs6cim/i_still_dont_understand_what_kubernetes_is/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "what is kubernetes",
+  "position": 6,
+  "url": "https://www.youtube.com/watch?v=283_GunQ5OY",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "what is kubernetes",
+  "position": 9,
+  "url": "https://en.wikipedia.org/wiki/Kubernetes",
+  "domain": "en.wikipedia.org",
+  "reason": "wikipedia"
+ },
+ {
+  "query": "what is kubernetes",
+  "position": 10,
+  "url": "https://www.reddit.com/r/explainlikeimfive/comments/16ikjat/eli5_what_is_kubernetes_and_why_does_it_matter_so/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "how to reduce customer churn",
+  "position": 2,
+  "url": "https://www.reddit.com/r/CustomerSuccess/comments/1j6jtd8/customer_success_peoplewhat_actually_works_to/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "project management methodologies",
+  "position": 2,
+  "url": "https://www.park.edu/blog/from-agile-to-waterfall-a-breakdown-of-project-management-methodologies/",
+  "domain": "park.edu",
+  "reason": "university (.edu)"
+ },
+ {
+  "query": "project management methodologies",
+  "position": 3,
+  "url": "https://pe.gatech.edu/blog/industry-trends/Top-Project-Management-Methodologies",
+  "domain": "pe.gatech.edu",
+  "reason": "university (.edu)"
+ },
+ {
+  "query": "project management methodologies",
+  "position": 4,
+  "url": "https://www.reddit.com/r/projectmanagement/comments/1r4vo72/what_are_the_methodologies_you_mostly_use_in/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "project management methodologies",
+  "position": 7,
+  "url": "https://www.forbes.com/advisor/business/project-management-methodologies/",
+  "domain": "forbes.com",
+  "reason": "news/media publisher"
+ },
+ {
+  "query": "project management methodologies",
+  "position": 8,
+  "url": "https://www.coursera.org/articles/types-of-project-management",
+  "domain": "coursera.org",
+  "reason": "course marketplace (coursera)"
+ },
+ {
+  "query": "project management methodologies",
+  "position": 9,
+  "url": "https://www.projectmanagement.com/wikis/976350/project-management-methodologies",
+  "domain": "projectmanagement.com",
+  "reason": "professional association community wiki (PMI)"
+ },
+ {
+  "query": "project management methodologies",
+  "position": 10,
+  "url": "https://www.uschamber.com/co/start/strategy/project-management-methodologies",
+  "domain": "uschamber.com",
+  "reason": "business association / media publication (US Chamber CO)"
+ },
+ {
+  "query": "okrs examples",
+  "position": 6,
+  "url": "https://www.christianstrunk.com/blog/okr-examples",
+  "domain": "christianstrunk.com",
+  "reason": "personal/consultant blog, not a company"
+ },
+ {
+  "query": "okrs examples",
+  "position": 8,
+  "url": "https://www.youtube.com/watch?v=gzXFaQjGUSk",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "remote work best practices",
+  "position": 1,
+  "url": "https://hr.web.baylor.edu/manage-lead/hybridremote-work-resources/practical-tips-managing-remote-workers",
+  "domain": "hr.web.baylor.edu",
+  "reason": "university (.edu)"
+ },
+ {
+  "query": "remote work best practices",
+  "position": 2,
+  "url": "https://online.hbs.edu/blog/post/managing-remote-employees",
+  "domain": "online.hbs.edu",
+  "reason": "university (.edu)"
+ },
+ {
+  "query": "remote work best practices",
+  "position": 4,
+  "url": "https://www.independentagent.com/resource/remote-work-best-practices/",
+  "domain": "independentagent.com",
+  "reason": "trade association (Big I)"
+ },
+ {
+  "query": "remote work best practices",
+  "position": 5,
+  "url": "https://www.reddit.com/r/CFP/comments/1c83zlm/remote_work_best_practices/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "remote work best practices",
+  "position": 6,
+  "url": "https://www.business.qld.gov.au/running-business/employing/high-performing-workplaces/flexible-working-arrangements/remote-working/practices-techniques-resources",
+  "domain": "business.qld.gov.au",
+  "reason": "government"
+ },
+ {
+  "query": "remote work best practices",
+  "position": 7,
+  "url": "https://intranet.med.wisc.edu/faculty-affairs-and-development/faculty-central-resources/developing-educators/remote-work-best-practices/",
+  "domain": "intranet.med.wisc.edu",
+  "reason": "university (.edu)"
+ },
+ {
+  "query": "how to run a retrospective",
+  "position": 2,
+  "url": "https://www.reddit.com/r/ProductManagement/comments/12d6xqy/how_to_organise_a_retrospective/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "how to run a retrospective",
+  "position": 4,
+  "url": "https://www.notonlycode.org/effective-retrospective/",
+  "domain": "notonlycode.org",
+  "reason": "personal blog, not a company"
+ },
+ {
+  "query": "how to run a retrospective",
+  "position": 6,
+  "url": "https://www.youtube.com/watch?v=ET4PDGje1Tg",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "how to run a retrospective",
+  "position": 8,
+  "url": "https://resources.scrumalliance.org/Video/12-steps-running-retrospectives-like-pro-step-4",
+  "domain": "resources.scrumalliance.org",
+  "reason": "nonprofit certification body; video page"
+ },
+ {
+  "query": "how to run a retrospective",
+  "position": 10,
+  "url": "https://www.reddit.com/r/scrum/comments/17kmvfc/advice_for_a_good_retrospective/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "what is a design system",
+  "position": 2,
+  "url": "https://www.reddit.com/r/UI_Design/comments/sp6qcy/what_is_a_design_system/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "what is a design system",
+  "position": 5,
+  "url": "https://en.wikipedia.org/wiki/Design_system",
+  "domain": "en.wikipedia.org",
+  "reason": "wikipedia"
+ },
+ {
+  "query": "what is a design system",
+  "position": 6,
+  "url": "https://www.youtube.com/watch?v=COrU18Oboq4",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "what is a design system",
+  "position": 8,
+  "url": "https://medium.com/@Adobe_Design/designing-design-systems-a-framework-for-names-terms-and-definitions-c83056d110ae",
+  "domain": "medium.com",
+  "reason": "medium"
+ },
+ {
+  "query": "what is a design system",
+  "position": 10,
+  "url": "https://www.designsystems.com/",
+  "domain": "designsystems.com",
+  "reason": "site homepage, not an article"
+ },
+ {
+  "query": "ux research methods",
+  "position": 3,
+  "url": "https://www.reddit.com/r/UXDesign/comments/11ku3ac/user_research_comprehensive_guide/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "ux research methods",
+  "position": 4,
+  "url": "https://enterprisearchitecture.harvard.edu/user-research-methods-and-recommendations",
+  "domain": "enterprisearchitecture.harvard.edu",
+  "reason": "university (.edu)"
+ },
+ {
+  "query": "ux research methods",
+  "position": 9,
+  "url": "https://www.youtube.com/watch?v=B7eWE2JJp8M",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "what is brand positioning",
+  "position": 1,
+  "url": "https://www.thebrandingjournal.com/2016/11/brand-positioning-definition/",
+  "domain": "thebrandingjournal.com",
+  "reason": "media publisher (online branding magazine)"
+ },
+ {
+  "query": "what is brand positioning",
+  "position": 3,
+  "url": "https://online.hbs.edu/blog/post/brand-positioning-statement",
+  "domain": "online.hbs.edu",
+  "reason": "university (.edu)"
+ },
+ {
+  "query": "what is brand positioning",
+  "position": 5,
+  "url": "https://www.forbes.com/councils/theyec/2022/01/14/what-brand-positioning-is-and-why-its-important-for-your-business/",
+  "domain": "forbes.com",
+  "reason": "news/media publisher"
+ },
+ {
+  "query": "what is brand positioning",
+  "position": 8,
+  "url": "https://www.youtube.com/watch?v=NPqEdQDraho",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "instagram marketing strategy",
+  "position": 2,
+  "url": "https://www.reddit.com/r/InstagramMarketing/comments/1kqelfm/what_is_the_right_instagram_marketing_strategy/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "instagram marketing strategy",
+  "position": 6,
+  "url": "https://www.smartinsights.com/social-media-marketing/instagram-marketing/",
+  "domain": "smartinsights.com",
+  "reason": "topic hub/index page, not a single article"
+ },
+ {
+  "query": "instagram marketing strategy",
+  "position": 7,
+  "url": "https://www.edueffective.online/instagram-marketing-strategy/",
+  "domain": "edueffective.online",
+  "reason": "ownership unclear (training/course site); not verifiable as a software/commercial company blog"
+ },
+ {
+  "query": "instagram marketing strategy",
+  "position": 9,
+  "url": "https://www.youtube.com/watch?v=h_uis-gVx0k",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "linkedin marketing tips",
+  "position": 2,
+  "url": "https://business.linkedin.com/advertise",
+  "domain": "business.linkedin.com",
+  "reason": "product/landing page, not an article"
+ },
+ {
+  "query": "linkedin marketing tips",
+  "position": 4,
+  "url": "https://www.reddit.com/r/marketing/comments/16lpq8m/linkedin_marketing_tips_advice/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "linkedin marketing tips",
+  "position": 6,
+  "url": "https://www.linkedin.com/business/marketing/blog",
+  "domain": "linkedin.com",
+  "reason": "blog index page, not an article"
+ },
+ {
+  "query": "keyword research guide",
+  "position": 4,
+  "url": "https://cals.las.iastate.edu/post/basics-keyword-research",
+  "domain": "cals.las.iastate.edu",
+  "reason": "university (.edu)"
+ },
+ {
+  "query": "link building strategies",
+  "position": 5,
+  "url": "https://www.youtube.com/watch?v=ul8S82GPyec&vl=en",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "link building strategies",
+  "position": 6,
+  "url": "https://www.searchenginejournal.com/link-building-guide/",
+  "domain": "searchenginejournal.com",
+  "reason": "news/media publisher"
+ },
+ {
+  "query": "link building strategies",
+  "position": 9,
+  "url": "https://www.youtube.com/watch?v=SxEEg1tOV70",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "link building strategies",
+  "position": 10,
+  "url": "https://www.macrohype.com/link-building-strategies-that-work-in/",
+  "domain": "macrohype.com",
+  "reason": "news/media publisher (marketing news site)"
+ },
+ {
+  "query": "how to calculate customer lifetime value",
+  "position": 5,
+  "url": "https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-online-insights/why-customer-lifetime-value-matters/",
+  "domain": "executiveeducation.wharton.upenn.edu",
+  "reason": "university (.edu)"
+ },
+ {
+  "query": "how to calculate customer lifetime value",
+  "position": 7,
+  "url": "https://www.youtube.com/watch?v=eHi875QuVcA",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "how to calculate customer lifetime value",
+  "position": 9,
+  "url": "https://www.reddit.com/r/datascience/comments/10718qz/how_to_calculate_customer_lifetime_value/",
+  "domain": "reddit.com",
+  "reason": "reddit"
+ },
+ {
+  "query": "what is net revenue retention",
+  "position": 7,
+  "url": "https://www.saasmetricsboard.com/net-revenue-retention",
+  "domain": "saasmetricsboard.com",
+  "reason": "industry standards board, not a company blog"
+ },
+ {
+  "query": "employee onboarding checklist",
+  "position": 2,
+  "url": "https://www.indeed.com/hire/c/info/new-hire-onboarding-checklist",
+  "domain": "indeed.com",
+  "reason": "job board (indeed)"
+ },
+ {
+  "query": "employee onboarding checklist",
+  "position": 4,
+  "url": "https://admin.hr.ufl.edu/hiring/onboarding/staff/six-month-checklist-best-practices-for-onboarding-new-employees/",
+  "domain": "admin.hr.ufl.edu",
+  "reason": "university (.edu)"
+ },
+ {
+  "query": "employee onboarding checklist",
+  "position": 6,
+  "url": "https://hr.sfsu.edu/managers-onboarding-checklist",
+  "domain": "hr.sfsu.edu",
+  "reason": "university (.edu)"
+ },
+ {
+  "query": "employee onboarding checklist",
+  "position": 10,
+  "url": "https://www.shrm.org/topics-tools/topics/onboarding",
+  "domain": "shrm.org",
+  "reason": "professional association (SHRM)"
+ },
+ {
+  "query": "how to write a job description",
+  "position": 1,
+  "url": "https://www.wright.edu/human-resources/writing-an-effective-job-description",
+  "domain": "wright.edu",
+  "reason": "university (.edu)"
+ },
+ {
+  "query": "how to write a job description",
+  "position": 2,
+  "url": "https://www.indeed.com/hire/how-to-write-a-job-description",
+  "domain": "indeed.com",
+  "reason": "job board (indeed)"
+ },
+ {
+  "query": "how to write a job description",
+  "position": 3,
+  "url": "https://hr.northwestern.edu/compensation/writing-job-description-march-20251.pdf",
+  "domain": "hr.northwestern.edu",
+  "reason": "university (.edu) PDF"
+ },
+ {
+  "query": "how to write a job description",
+  "position": 4,
+  "url": "https://www.shrm.org/topics-tools/tools/job-descriptions",
+  "domain": "shrm.org",
+  "reason": "professional association (SHRM)"
+ },
+ {
+  "query": "how to write a job description",
+  "position": 5,
+  "url": "https://adminvc.ucla.edu/news/essential-elements-writing-effective-job-description",
+  "domain": "adminvc.ucla.edu",
+  "reason": "university (.edu)"
+ },
+ {
+  "query": "how to write a job description",
+  "position": 6,
+  "url": "https://www.klc.org/News/11622/how-to-write-a-job-description",
+  "domain": "klc.org",
+  "reason": "municipal association (Kentucky League of Cities)"
+ },
+ {
+  "query": "how to write a job description",
+  "position": 8,
+  "url": "https://www.youtube.com/watch?v=7yUtpY7rEeM",
+  "domain": "youtube.com",
+  "reason": "youtube"
+ },
+ {
+  "query": "how to write a job description",
+  "position": 9,
+  "url": "https://www.recycledmaterials.org/wp-content/uploads/How-To-Write-a-Job-Description.pdf",
+  "domain": "recycledmaterials.org",
+  "reason": "trade association PDF"
+ }
+]
