@@ -1,0 +1,33 @@
+{
+  "title": "What gets cited by AI search: 603 Perplexity citations collected by hand",
+  "description": "What actually goes with being cited by AI search: 603 Perplexity citations collected by hand across 30 questions, and 438 cited pages measured. Includes the data and the scripts. Write-up: https://www.growwithram.in/blog/what-gets-cited-by-ai-search",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Ramakrishnan S"
+    }
+  ],
+  "access_right": "open",
+  "license": "mit",
+  "keywords": [
+    "seo",
+    "ai search",
+    "perplexity",
+    "generative engine optimization",
+    "aeo",
+    "citations"
+  ],
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://www.growwithram.in/blog/what-gets-cited-by-ai-search",
+      "relation": "isDescribedBy",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "https://github.com/ram15126/ai-search-citation-study",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}
