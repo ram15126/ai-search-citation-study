@@ -1,5 +1,7 @@
 # What actually goes with being cited by AI search
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23194290.svg)](https://doi.org/10.5281/zenodo.23194290)
+
 Measured on **19–20 September 2026** by [Ramakrishnan S](https://www.growwithram.in). This
 repository is the working: every citation as collected, the measurement of all 438 pages, and the
 scripts that turn one into the other.
